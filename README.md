@@ -30,12 +30,8 @@ Antes de ejecutar la aplicación, asegúrate de tener instaladas las siguientes 
   - `matplotlib`
   - `tkinter`
 
-Puedes instalar las bibliotecas necesarias usando `pip`:
+Puedes instalar las bibliotecas necesarias usando `pip install`:
 
-```bash
-pip install matplotlib
-pip install tkinter
-'
 ---
 
 # Instalación
